@@ -1,0 +1,5 @@
+function square(arg) {
+  if (arg < 0 || arg === 0 || arg > 0) {
+    return (arg * arg);
+  }
+}
